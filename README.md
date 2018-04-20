@@ -1,3 +1,14 @@
+## About theme
+```markdown
+Dogras Masonry grid layout is the grid structure that will fit into the columns and rows inside. 
+This is good for the content type and blog type website. This is generated from the Bootstrap 4.0.
+Minimal use of javascript and mini-fied libraries used.
+If you are looking for full featured theme ask me!
+```
+
+## Live Preview
+https://mrdogra007.github.io/masonry-grid/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mrdogra007/masonry-grid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +46,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Creator: Nishant Dogra
+
+https://twitter.com/mrdogra007
+
+https://github.com/mrdogra007
+
+https://www.behance.net/mrdogra007
+
+http://codepen.io/mrdogra007
+
+Copyright and license
+Copyright 2017-2018. 
